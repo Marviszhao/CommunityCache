@@ -1,0 +1,9 @@
+build/
+xcuserdata
+*.xccheckout
+*.moved-aside
+DerivedData
+*.ipa
+*.xcuserstate
+*.DS_Stone
+* ~
