@@ -1,7 +1,6 @@
 build/
 xcuserdata
 *.xccheckout
-*.moved-aside
 DerivedData
 *.ipa
 *.xcuserstate
